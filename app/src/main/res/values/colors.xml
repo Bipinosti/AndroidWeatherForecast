@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#729101</color>
+    <color name="colorPrimaryDark">#126446</color>
+    <color name="colorAccent">#ff39f8</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <string name="delete_text">X</string>
+    <color name="colorBackground">#4a8cc5</color>
+    <color name="colorBottomBackground">#4c5b59</color>
+    <color name="colorCircleStroke">#8e99c5</color>
+    <color name="colorSubTitle">#3c265b</color>
+</resources>

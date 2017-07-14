@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_location1"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/cross"
+        android:title="Add"/>
+    <item
+        android:id="@+id/menu_refresh"
+        app:showAsAction="always"
+        android:icon="@drawable/ref"
+        android:title="menu_refresh"/>
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings">
+    </item>
+
+</menu>
